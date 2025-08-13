@@ -1,0 +1,15 @@
+package Statickeyword;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		System.out.println(Animal.age);
+		 Animal a = new Animal ();
+	    a.getName();
+	   
+	//	System.out.println(Animal.age);
+	//	Animal.printName();
+		
+	}
+
+}
